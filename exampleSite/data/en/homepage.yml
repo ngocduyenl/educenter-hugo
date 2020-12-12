@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Thiết kế In ấn Chuyên Nghiệp"
-      content : "Nhanh Chuẩn Đẹp"
+      content : "Menu, card visit, voucher, vip card, thẻ tích điểm, catalogue, brochure, folder, bao thư, tờ rơi, thiệp mời, poster, logo, sticker... "
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Thiết kế in ấn trọn gói"
-      content : "Thực hiện trọn gói cho doanh nghiệp, cá nhân, nhà hàng, resort, cà phê, trà sữa, spa beauty, nail spa, salon."
+      content : "Thực hiện trọn gói nhận diện cho doanh nghiệp, nhà hàng, resort, tiệm cà phê, quán trà sữa, spa beauty, nail spa, salon với tốc độ nhanh, chất lượng tốt và giá thành phải chăng"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Dịch vụ in nhanh số 1"
-      content : "Nhận in nhanh - lấy gấp - lấy liền trong ngày với số lượng ít, giúp khách hàng giải quyết được mọi khó khăn"
+      content : "Địa chỉ duy nhất nhận in nhanh - lấy gấp - lấy liền trong ngày với số lượng ít đến rất ít. Giúp khách hàng có sản phẩm trong thời gian ngắn, giải quyết được nhiều vấn đề khó khăn"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -50,8 +50,7 @@ banner_feature:
     # feature item loop
     - name : "Nhân Lực"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-      content : ""
+      content : "Con người là nòng cốt. Từng nhân sự Khải Nguyên đều đại diện cho mọi khía cạnh nhất định. Từ đó hợp lực tạo thành đội ngũ chuyên nghiệp. Phục vụ những nhu cầu kinh doanh tối giản và khoa học."
 
     # feature item loop
     - name : "Quy Trình"
@@ -79,8 +78,8 @@ about:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Với Khải Nguyên sự hài lòng của khách hàng là trên hết"
-  title : "Chuyên nghiệp, Đẳng cấp sẽ tạo ra sự Khác biệt"
+  subtitle : ""
+  title : "HỢP LÝ = NHANH + CHUẨN + ĐẸP + GIÁ TỐT"
   button:
     enable : true
     label : "Liên Hệ"
@@ -95,10 +94,40 @@ success_story:
   content : "Khải Nguyên luôn cung cấp nhiều khuyến mãi thú vị dành cho khách hàng mới cùng nhiều ưu đãi lớn cho khách hàng thường xuyên.
 
 * Giảm giá thiết kế.
+
 * Tặng kèm ấn phẩm kết hợp.
+
 * Giảm giá in ấn sản phẩm hoặc tổng đơn hàng.
+
 * Tặng kèm voucher khuyến mãi.
 "
+  # video link
+  video_link : "https://www.youtube.com/watch?v=DE-lTNXP7zQ&t=10s&ab_channel=Kh%E1%BA%A3iNguy%C3%AAnProduction"
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Sáng Tạo"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Sáng tạo là điểm khởi đầu cho mọi tác phẩm. Dù thiết kế in ấn hay bất cứ ngành nghề nào đi nữa thì sự sáng tạo vẫn là giá trị vô hình để ươm mầm một thương hiệu."
+
+    # feature item loop
+    - name : "Nhân Lực"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Con người là nòng cốt. Từng nhân sự Khải Nguyên đều đại diện cho mọi khía cạnh nhất định. Từ đó hợp lực tạo thành đội ngũ chuyên nghiệp. Phục vụ những nhu cầu kinh doanh tối giản và khoa học."
+
+    # feature item loop
+    - name : "Quy Trình"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Quy trình bên ngoài linh hoạt, bên trong kỷ luật. Cho phép mỗi nhân sự Khải Nguyên phát huy tối đa năng lục của mình. Từ đó tạo ra sản phẩm đẹp, đẳng cấp với tốc độ và kinh phí tối ưu."
+
+    # feature item loop
+    - name : "Kết Nối"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Sự kết nối đa dạng với đối tác trong và ngoài nước. Giúp Khải Nguyên có được nguồn nguyên liệu cũng như máy móc cao cấp phục vụ quy trình sản xuất."
 
 ############################# blog ################################
 blog:
