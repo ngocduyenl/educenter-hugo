@@ -11,8 +11,8 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["Automation System", "Design", "Thiết Kế"]
-tags: ["Advice", "Automation"]
+categories: ["In ấn", "Thiết Kế"]
+tags: ["Thiết Kế", "In ấn"]
 # type
 type: "post"
 ---
