@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "KHÁCH HÀNG LÀ TRÊN HẾT!"
-  image : "images/about/about-us.jpg"
+  image : "images/about/about-us.png"
   content : "Sau tất cả thì sự hài lòng của khách hàng mới là mục tiêu chủ chốt trong tất cả vấn đề Khải Nguyên đặt ra từ khâu tư vấn, thiết kế và sản xuất thành phẩm."
   button:
     enable : true
@@ -103,31 +103,6 @@ success_story:
 "
   # video link
   video_link : "https://www.youtube.com/watch?v=DE-lTNXP7zQ&t=10s&ab_channel=Kh%E1%BA%A3iNguy%C3%AAnProduction"
-
-############################### Banner feature ###############################
-banner_feature:
-  enable : true
-  image : "images/banner/banner-feature.png"
-  feature_item:
-    # feature item loop
-    - name : "Sáng Tạo"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Sáng tạo là điểm khởi đầu cho mọi tác phẩm. Dù thiết kế in ấn hay bất cứ ngành nghề nào đi nữa thì sự sáng tạo vẫn là giá trị vô hình để ươm mầm một thương hiệu."
-
-    # feature item loop
-    - name : "Nhân Lực"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Con người là nòng cốt. Từng nhân sự Khải Nguyên đều đại diện cho mọi khía cạnh nhất định. Từ đó hợp lực tạo thành đội ngũ chuyên nghiệp. Phục vụ những nhu cầu kinh doanh tối giản và khoa học."
-
-    # feature item loop
-    - name : "Quy Trình"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Quy trình bên ngoài linh hoạt, bên trong kỷ luật. Cho phép mỗi nhân sự Khải Nguyên phát huy tối đa năng lục của mình. Từ đó tạo ra sản phẩm đẹp, đẳng cấp với tốc độ và kinh phí tối ưu."
-
-    # feature item loop
-    - name : "Kết Nối"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Sự kết nối đa dạng với đối tác trong và ngoài nước. Giúp Khải Nguyên có được nguồn nguyên liệu cũng như máy móc cao cấp phục vụ quy trình sản xuất."
 
 ############################# blog ################################
 blog:
