@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2> LIÊN HỆ</h2>
+        <h2>LIÊN HỆ</h2>
       </div>
     </div>
     <div class="row">
@@ -13,9 +13,10 @@
           {{ .Content }}
       </div>
       <div class="col-lg-5 content">
-        <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a>
-        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
-        <p>{{ site.Params.address | markdownify }}</p>
+        <h3>Công ty TNHH Thiết Kế In Ấn Khải Nguyên</h3>
+        <span>Điện Thoại: </span><a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a>
+        <span>Email: </span><a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
+        <span>Địa chỉ: </span><p>{{ site.Params.address | markdownify }}</p>
       </div>
     </div>
   </div>
