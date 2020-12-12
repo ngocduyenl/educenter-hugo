@@ -11,7 +11,7 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["Automation System"]
+categories: ["Automation System", "Design"]
 tags: ["Advice", "Automation"]
 # type
 type: "post"
