@@ -45,7 +45,7 @@ name = "Thiết kế card visit"
 parent = "Thiết kế"
 url = "categories/thiết-kế-card-visit/"
 [[Languages.en.menu.main]]
-name = "event"
+name = "Thiết kế menu"
 parent = "Thiết kế"
 url = "categories/thiết-kế-menu/"
 [[Languages.en.menu.main]]

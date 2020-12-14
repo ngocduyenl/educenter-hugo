@@ -15,7 +15,7 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "THIẾT KẾ IN ẤN TRỌN GÓI"
+    - title : "GIẢI PHÁP TRỌN GÓI"
       content : "Thực hiện trọn gói nhận diện cho doanh nghiệp, nhà hàng, resort, tiệm cà phê, quán trà sữa, spa beauty, nail spa, salon với tốc độ nhanh, chất lượng tốt và giá thành phải chăng."
       animation_in : "left"
       animation_out : "right"
