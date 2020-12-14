@@ -36,6 +36,15 @@
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
           </ul>
         </div>
+        <!-- contact -->
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          <ul class="list-unstyled">
+            <li class="mb-4">Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Tiên | 0911 365 096  | Email:daotien@khainguyenepco.vn</li>
+          </ul>
+        </div>
         <!-- company -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
@@ -44,24 +53,6 @@
             {{ if not .HasChildren }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
-            {{ end }}
-          </ul>
-        </div>
-        <!-- links -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "links" }}</h4>
-          <ul class="list-unstyled">
-            {{ range site.Menus.footer }}
-            <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-        <!-- support -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "courses" }}</h4>
-          <ul class="list-unstyled">
-            {{ range first 5 (where site.RegularPages "Type" "course")}}
-            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>

@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Khải Nguyên | Thiết Kế In Ấn"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 từ Khải Nguyên"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -29,31 +29,31 @@ url = "scholarship"
 name = "research"
 url = "research"
 [[Languages.en.menu.main]]
-name = "IN ẤN"
+name = "In ấn"
 url = "categories/in-ấn"
 weight = 1
 [[Languages.en.menu.main]]
-name = "THIẾT KẾ 1"
+name = "Thiết kế"
 url = "categories/thiết-kế"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Thiết kế logo"
-parent = "THIẾT KẾ"
+parent = "Thiết kế"
 url = "categories/thiết-kế-logo/"
 [[Languages.en.menu.main]]
 name = "Thiết kế card visit"
-parent = "THIẾT KẾ"
+parent = "Thiết kế"
 url = "categories/thiết-kế-card-visit/"
 [[Languages.en.menu.main]]
 name = "event"
-parent = "THIẾT KẾ"
+parent = "Thiết kế"
 url = "categories/thiết-kế-menu/"
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "blog"
 weight = 3
 [[Languages.en.menu.main]]
-name = "LIÊN HỆ"
+name = "Liên hệ"
 url = "contact"
 weight = 4
 [Languages.fr]
