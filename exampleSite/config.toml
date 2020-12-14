@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Khải Nguyên | Thiết Kế In Ấn"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 từ Khải Nguyên"
+copyright = "Copyright &copy; 2020 by Khải Nguyên"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
