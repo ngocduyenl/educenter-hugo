@@ -40,7 +40,7 @@ name = "In menu
 parent = "In ấn"
 url = "categories/in-menu/"
 [[Languages.en.menu.main]]
-name = "Sản phẩm khác"
+name = "Ấn phẩm khác"
 parent = "In ấn"
 url = "categories/in-ấn"
 [[Languages.en.menu.main]]
