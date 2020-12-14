@@ -7,7 +7,7 @@ description: 'Liên hệ với bộ phận kinh doanh của Khải Nguyên để
 
 ---
 
-**Để được tư vấn chuyên sâu, hỗ trợ và báo giá chính xác tất cả các sản phẩm thiết kế & in ấn tại Khải Nguyên, bạn có thể  liên hệ trực tiếp vào hotline hoặc chọn kinh doanh làm việc trực tiếp.**
+Để được tư vấn chuyên sâu, hỗ trợ và báo giá chính xác tất cả các sản phẩm thiết kế & in ấn tại Khải Nguyên, bạn có thể  liên hệ trực tiếp vào hotline hoặc chọn kinh doanh làm việc trực tiếp.
 
 **Chọn kinh doanh tư vấn trực tiếp qua:** Email, Di động, Zalo, Viber, Facebook.
 
