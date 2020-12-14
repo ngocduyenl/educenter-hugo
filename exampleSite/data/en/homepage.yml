@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Thiết kế In ấn Chuyên Nghiệp"
-      content : "Menu, card visit, voucher, vip card, thẻ tích điểm, catalogue, brochure, folder, bao thư, tờ rơi, thiệp mời, poster, logo, sticker... "
+    - title : "CHUYÊN THIẾT KẾ IN ẤN"
+      content : "Menu, card visit, voucher, vip card, thẻ tích điểm, catalogue, brochure, folder, bao thư, tờ rơi, thiệp mời, poster, logo, sticker... nhanh chuẩn đẹp với quy trình chuyên nghiệp."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +15,8 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Thiết kế in ấn trọn gói"
-      content : "Thực hiện trọn gói nhận diện cho doanh nghiệp, nhà hàng, resort, tiệm cà phê, quán trà sữa, spa beauty, nail spa, salon với tốc độ nhanh, chất lượng tốt và giá thành phải chăng"
+    - title : "THIẾT KẾ IN ẤN TRỌN GÓI"
+      content : "Thực hiện trọn gói nhận diện cho doanh nghiệp, nhà hàng, resort, tiệm cà phê, quán trà sữa, spa beauty, nail spa, salon với tốc độ nhanh, chất lượng tốt và giá thành phải chăng."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,8 +26,8 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Dịch vụ in nhanh số 1"
-      content : "Địa chỉ duy nhất nhận in nhanh - lấy gấp - lấy liền trong ngày với số lượng ít đến rất ít. Giúp khách hàng có sản phẩm trong thời gian ngắn, giải quyết được nhiều vấn đề khó khăn"
+    - title : "DỊCH VỤ IN NHANH SỐ 1"
+      content : "Địa chỉ duy nhất nhận in nhanh - lấy gấp - lấy liền trong ngày với số lượng ít đến rất ít. Giúp khách hàng có sản phẩm trong thời gian ngắn, giải quyết được nhiều vấn đề khó khăn."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -43,22 +43,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Sáng Tạo"
+    - name : "SÁNG TẠO"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Sáng tạo là điểm khởi đầu cho mọi tác phẩm. Dù thiết kế in ấn hay bất cứ ngành nghề nào đi nữa thì sự sáng tạo vẫn là giá trị vô hình để ươm mầm một thương hiệu."
 
     # feature item loop
-    - name : "Nhân Lực"
+    - name : "NHÂN LỰC"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Con người là nòng cốt. Từng nhân sự Khải Nguyên đều đại diện cho mọi khía cạnh nhất định. Từ đó hợp lực tạo thành đội ngũ chuyên nghiệp. Phục vụ những nhu cầu kinh doanh tối giản và khoa học."
 
     # feature item loop
-    - name : "Quy Trình"
+    - name : "QUY TRÌNH"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Quy trình bên ngoài linh hoạt, bên trong kỷ luật. Cho phép mỗi nhân sự Khải Nguyên phát huy tối đa năng lục của mình. Từ đó tạo ra sản phẩm đẹp, đẳng cấp với tốc độ và kinh phí tối ưu."
 
     # feature item loop
-    - name : "Kết Nối"
+    - name : "KẾT NỐI"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Sự kết nối đa dạng với đối tác trong và ngoài nước. Giúp Khải Nguyên có được nguồn nguyên liệu cũng như máy móc cao cấp phục vụ quy trình sản xuất."
 
@@ -90,16 +90,16 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Khuyến Mãi Hấp Dẫn"
+  title : "KHUYẾN MÃI HẤP DẪN"
   content : "Khải Nguyên luôn cung cấp nhiều khuyến mãi thú vị dành cho khách hàng mới cùng nhiều ưu đãi lớn cho khách hàng thường xuyên.
 
-* Giảm giá thiết kế.
+* > Giảm giá thiết kế.
 
-* Tặng kèm ấn phẩm kết hợp.
+* > Tặng kèm ấn phẩm kết hợp.
 
-* Giảm giá in ấn sản phẩm hoặc tổng đơn hàng.
+* > Giảm giá in ấn sản phẩm hoặc tổng đơn hàng.
 
-* Tặng kèm voucher khuyến mãi.
+* > Tặng kèm voucher khuyến mãi.
 "
   # video link
   video_link : "https://www.youtube.com/watch?v=DE-lTNXP7zQ&t=10s&ab_channel=Kh%E1%BA%A3iNguy%C3%AAnProduction"
@@ -107,5 +107,5 @@ success_story:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Tin tức mới"
+  title : "TIN TỨC MỚI"
   # blog item comes from "content/**/blog" folder.

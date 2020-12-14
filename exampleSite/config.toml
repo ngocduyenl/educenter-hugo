@@ -29,45 +29,33 @@ url = "scholarship"
 name = "research"
 url = "research"
 [[Languages.en.menu.main]]
-name = "About"
-url = "about"
+name = "IN ẤN"
+url = "categories/in-ấn"
 weight = 1
 [[Languages.en.menu.main]]
-name = "course"
-url = "course"
+name = "THIẾT KẾ 1"
+url = "categories/thiết-kế"
 weight = 2
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
+name = "Thiết kế logo"
+parent = "THIẾT KẾ"
+url = "categories/thiết-kế-logo/"
 [[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher"
-[[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice"
+name = "Thiết kế card visit"
+parent = "THIẾT KẾ"
+url = "categories/thiết-kế-card-visit/"
 [[Languages.en.menu.main]]
 name = "event"
-parent = "Pages"
-url = "event"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
+parent = "THIẾT KẾ"
+url = "categories/thiết-kế-menu/"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "blog"
-weight = 4
+weight = 3
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "LIÊN HỆ"
 url = "contact"
-weight = 5
+weight = 4
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
