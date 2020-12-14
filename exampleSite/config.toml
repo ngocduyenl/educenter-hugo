@@ -30,11 +30,21 @@ name = "research"
 url = "research"
 [[Languages.en.menu.main]]
 name = "In ấn"
-url = "categories/in-ấn"
 weight = 1
 [[Languages.en.menu.main]]
+name = "In card visit"
+parent = "In ấn"
+url = "categories/in-card-visit/"
+[[Languages.en.menu.main]]
+name = "In menu
+parent = "In ấn"
+url = "categories/in-menu/"
+[[Languages.en.menu.main]]
+name = "Sản phẩm khác"
+parent = "In ấn"
+url = "categories/in-ấn"
+[[Languages.en.menu.main]]
 name = "Thiết kế"
-url = "categories/thiết-kế"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Thiết kế logo"
@@ -48,6 +58,10 @@ url = "categories/thiết-kế-card-visit/"
 name = "Thiết kế menu"
 parent = "Thiết kế"
 url = "categories/thiết-kế-menu/"
+[[Languages.en.menu.main]]
+name = "Thiết kế tổng hợp"
+parent = "Thiết kế"
+url = "categories/thiết-kế/"
 [[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
