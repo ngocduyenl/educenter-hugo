@@ -7,11 +7,12 @@ description: Liên hệ với bộ phận kinh doanh của Khải Nguyên để 
   Cảm ơn quý khách đã ủng hộ.
 
 ---
-**TƯ VẤN BÁO GIÁ THIẾT KẾ IN ẤN**
+
+**Để được tư vấn chuyên sâu, hỗ trợ và báo giá chính xác tất cả các sản phẩm thiết kế & in ấn tại Khải Nguyên, bạn có thể  liên hệ trực tiếp vào hotline hoặc chọn kinh doanh làm việc trực tiếp.**
 
 **Chọn kinh doanh tư vấn trực tiếp qua:** Email, Di động, Zalo, Viber, Facebook.
 
-* Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn
-* Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn
-* Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn
-* Ms.Tiên | 0911 365 096 | Email:daotien@khainguyenepco.vn
+1. Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn
+2. Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn
+3. Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn
+4. Ms.Tiên | 0911 365 096 | Email:daotien@khainguyenepco.vn
