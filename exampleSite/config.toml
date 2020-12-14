@@ -33,6 +33,22 @@ name = "In ấn"
 url = "categories/in-ấn"
 weight = 1
 [[Languages.en.menu.main]]
+name = "In ấn"
+url = "categories/in-ấn"
+weight = 1
+[[Languages.en.menu.main]]
+name = "In card visit"
+parent = "In ấn"
+url = "categories/in-card-visit/"
+[[Languages.en.menu.main]]
+name = "In menu"
+parent = "In ấn"
+url = "categories/in-menu/"
+[[Languages.en.menu.main]]
+name = "In ấn"
+parent = "Ấn phẩm khác"
+url = "categories/in-ấn/"
+[[Languages.en.menu.main]]
 name = "Thiết kế"
 url = "categories/thiết-kế"
 weight = 2
