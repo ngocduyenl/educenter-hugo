@@ -34,7 +34,7 @@
             <li class="mb-4">Địa chỉ: {{ site.Params.address | markdownify }}</li>
             <li class="mb-4">Email: {{ site.Params.email | markdownify }}</li>
             <li class="mb-4">Hotline: {{ site.Params.mobile | markdownify }}</li>
-            <li class="mb-4">Thứ 2- Thứ 6: 8h30 - 18h</li>
+            <li class="mb-4">Thứ 2 - Thứ 6: 8h30 - 18h</li>
             <li class="mb-4">Thứ 7: 8h30 - 15h30</li>
           </ul>
         </div>
@@ -42,20 +42,29 @@
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <h4 class="text-white mb-5 text-uppercase">LIÊN HỆ</h4>
           <ul class="list-unstyled">
-            <li class="mb-4"><b>Vân Anh</b> | 0934 819 961 | Email:vananh@khainguyenepco.vn</li>
-            <li class="mb-4"><b>Ms.Trang</b> | 0974 748 721 | Email:trang@khainguyenepco.vn</li>
-            <li class="mb-4"><b>Ms.Như</b> | 0977 992 820 | Email:nhuphan@khainguyenepco.vn</li>
-            <li class="mb-4"><b>Ms.Tiên</b> | 0911 365 096  | Email:daotien@khainguyenepco.vn</li>
+            <li class="mb-4">Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn</li>
+            <li class="mb-4">Ms.Tiên | 0911 365 096  | Email:daotien@khainguyenepco.vn</li>
           </ul>
         </div>
         <!-- company -->
-        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">Khải Nguyên</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.main }}
             {{ if not .HasChildren }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+        <!-- support -->
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">TIN MỚI</h4>
+          <ul class="list-unstyled">
+            {{ range first 3 (where site.RegularPages "Type" "notice")}}
+            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
