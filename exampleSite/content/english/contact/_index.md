@@ -1,12 +1,11 @@
 ---
 title: Liên Hệ
-bg_image: images/backgrounds/page-title.jpg
+bg_image: images/backgrounds/page-title-02.jpg
 description: 'Liên hệ với bộ phận kinh doanh của Khải Nguyên để có được những tư vấn
   chuyên sâu, hỗ trợ thiết thực và báo giá sản phẩm chính xác nhất. Những ấn phẩm
   Khải Nguyên không thực hiện, chúng tôi sẽ tư vấn đối tác thích hợp khách cho bạn. '
 
 ---
-
 Để được tư vấn chuyên sâu, hỗ trợ và báo giá chính xác tất cả các sản phẩm thiết kế & in ấn tại Khải Nguyên, bạn có thể  liên hệ trực tiếp vào hotline hoặc chọn kinh doanh làm việc trực tiếp.
 
 **Chọn kinh doanh tư vấn trực tiếp qua:** Email, Di động, Zalo, Viber, Facebook.
