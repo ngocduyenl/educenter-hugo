@@ -11,12 +11,12 @@ description: 'Liên hệ với bộ phận kinh doanh của Khải Nguyên để
 
 **Chọn kinh doanh tư vấn trực tiếp qua:** Email, Di động, Zalo, Viber, Facebook.
 
-> Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn
+Vân Anh | 0934 819 961 | Email:vananh@khainguyenepco.vn
 
-> Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn
+Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn
 
-> Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn
->
-> Ms.Tiên | 0911 365 096 | Email:daotien@khainguyenepco.vn
+Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn
+
+Ms.Tiên | 0911 365 096 | Email:daotien@khainguyenepco.vn
 
 Cảm ơn quý khách hàng đã ủng hộ Khải Nguyên, chúc quý khách ngày mới tốt lành.
