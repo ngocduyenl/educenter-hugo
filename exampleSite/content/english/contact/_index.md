@@ -16,3 +16,5 @@ description: Liên hệ với bộ phận kinh doanh của Khải Nguyên để 
 2. Ms.Trang | 0974 748 721 | Email:trang@khainguyenepco.vn
 3. Ms.Như | 0977 992 820 | Email:nhuphan@khainguyenepco.vn
 4. Ms.Tiên | 0911 365 096 | Email:daotien@khainguyenepco.vn
+
+Cảm ơn quý khách hàng đã ủng hộ Khải Nguyên, chúc quý khách ngày mới tốt lành.
