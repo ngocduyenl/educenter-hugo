@@ -11,7 +11,7 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["In ấn", "Thiết Kế", "Thiết Kế Menu", "Thiết Kế Card Visit", "Thiết Kế Logo"]
+categories: ["Thiết Kế"]
 tags: ["Thiết Kế", "In Ấn", "In Menu", "In Card Visit", "In Voucher"]
 # type
 type: "post"
