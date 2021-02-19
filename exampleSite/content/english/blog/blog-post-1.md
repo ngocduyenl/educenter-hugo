@@ -11,7 +11,7 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["In ấn", "Thiết Kế", "Thiết Kế Menu", "Thiết Kế Card Visit", "Thiết Kế Logo"]
+categories: ["In ấn", "Thiết Kế", "Thiết Kế Menu", "Thiết Kế Card Visit", "Thiết Kế Logo", "Thiết kế Brochure"]
 tags: ["Thiết Kế", "In Ấn", "In Menu", "In Card Visit", "In Voucher"]
 # type
 type: "post"
@@ -30,6 +30,8 @@ type: "post"
 * Thiết kế logo.
 
 > Liên hệ: 02862921221
+
+![Hình ảnh demo 2](https://thietkekhainguyen.com/wp-content/uploads/2020/07/gift-voucher-hoa-spa-8-3-min.jpg "Hình ảnh demo 2")
 
 #### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
