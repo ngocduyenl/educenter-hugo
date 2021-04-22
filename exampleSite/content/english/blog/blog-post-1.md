@@ -22,7 +22,7 @@ type: "post"
 * In menu.
 * In card visit.
 * In voucher.
-
+<p align="center">Thiết kế in ấn pp kỹ thuật số</p>
 
 #### Thiết kế
 * Thiết kế menu.
